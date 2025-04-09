@@ -26,7 +26,7 @@ Feel free to:
 ---
 
 ## 👤 About Me
-I’m a certified SAFe Scrum Master with hands-on experience supporting Agile teams in the banking and financial services domain.  
+I’m **Shan**, a certified SAFe Scrum Master with hands-on experience supporting Agile teams in the banking and financial services domain.  
 I created this repo to share useful resources and demonstrate my commitment to continuous improvement.
 
 ---
