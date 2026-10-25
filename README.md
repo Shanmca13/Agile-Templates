@@ -38,7 +38,7 @@ Hi, I'm **Shan**, a certified SAFe Scrum Master with over 11 years of experience
 
 I created this repo to share useful Agile resources and demonstrate my commitment to team agility and continuous improvement.
 
----
+--- 
 
 ## 📫 Let’s Connect
 
